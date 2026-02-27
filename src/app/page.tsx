@@ -19,9 +19,9 @@ export default function Home() {
             className="logo"
           />
           <div>
-            <h1 className="business-name">Sky Dreamer</h1>
+            <h1 className="business-name">SKY DREAMERS</h1>
             <p className="description">
-              Dream big, reach higher. Your journey to the sky starts here.
+              A UNIT OF PILOT TRAINING CENTER (PWC)
             </p>
           </div>
         </div>
