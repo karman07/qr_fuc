@@ -12,7 +12,7 @@ export default function Home() {
         <div className="profile-section">
           {/* Logo */}
           <Image
-            src="/Sky dreamer Logo.png"
+            src="/sky-dreamer-logo.png"
             alt="Sky Dreamer Logo"
             width={80}
             height={80}
