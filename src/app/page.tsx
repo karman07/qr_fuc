@@ -38,7 +38,7 @@ export default function Home() {
 
           <button
             className="link-button"
-            onClick={() => window.open("https://wa.me/1234567890", "_blank")}
+            onClick={() => window.open("https://wa.me/918810262199", "_blank")}
           >
             <MessageCircle className="link-icon" />
             WhatsApp Us
@@ -46,7 +46,7 @@ export default function Home() {
 
           <button
             className="link-button"
-            onClick={() => window.open("https://instagram.com/yourusername", "_blank")}
+            onClick={() => window.open("https://www.instagram.com/pwc.skydreamers", "_blank")}
           >
             <Instagram className="link-icon" />
             Follow on Instagram
